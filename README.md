@@ -1,4 +1,4 @@
-# KE-MHISTO: towards a Multilingual HISTOrical Knowledge Extraction benchmark for addressing the long-tail problem
+# KE-MHISTO: towards a Multilingual Historical Knowledge Extraction benchmark for addressing the long-tail problem
 A **multilingual** benchmark for **Entity Linking** and **Question Answering** on historical knowledge in the music domain.
 ## 📚Paper Abstract
 Large Language Models (LLMs) struggle when probed for "long-tail knowledge": information that is rarely encountered during their training phase. Benchmarks focused on historical documents can systematically evaluate SotA KE methods on real-world data characterized by long-tail knowledge.
